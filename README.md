@@ -2,7 +2,6 @@
 - 👀 I’m interested in Competative Programming and Cyber Security.
 - 🌱 I’m currently learning Data Structures, Website Penetration Testing.
 - 💞️ I’m looking to collaborate on Projects based on C++, Python and Cyber Security.
-- 📫 Ping me on my email: Git29harsh@gmail.com
 - Open for Internships.
 - Looking forword to Learn and Gain Experience. 
 
